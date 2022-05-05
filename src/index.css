@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}/*
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}*/
+
+.center{
+  margin-top: 100px;
+}
+
+.center .content h1 span{
+text-transform: uppercase;
+}
+.center .center h1{
+  text-transform: capitalize;
+ 
+}
+thead tr th {
+  text-transform: uppercase;
+}
+tbody tr th {
+  text-transform: capitalize;
+  font-weight: 400;
+}
